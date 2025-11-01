@@ -1,0 +1,16 @@
+{
+  "name": "@davidabou/renovate-config",
+  "version": "0.0.0",
+  "description": "Renovate configuration for david's repositories",
+  "license": "MIT",
+  "repository": "davidabou/renovate-config",
+  "scripts": {
+    "test": "renovate-config-validator ./default.json"
+  },
+  "files": [
+    "default.json"
+  ],
+  "devDependencies": {
+    "renovate": "^41.168.4"
+  }
+}
