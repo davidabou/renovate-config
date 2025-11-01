@@ -9,6 +9,7 @@
   "npm": {
     "commitMessageTopic": "{{prettyDepType}} {{depName}}"
   },
+  "labels": ["dependencies"],
   "packageRules": [
     {
       "dependencyDashboardApproval": true,
